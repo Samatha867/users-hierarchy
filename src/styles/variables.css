@@ -1,0 +1,38 @@
+:root {
+  --fontFamily: 'Roboto', sans-serif;
+  --fontSizeMedium: 1.4rem;
+  --fontWeightRegular: 400;
+  
+  --lineHeightMedium: 2rem;
+
+  --background-color: white;     
+  --connector-color: #369;      
+  --shadow-color: #8F949A;
+  --box-color: #afafaf;    
+  --black: #313133;     
+
+
+  --tree-margin-left: 0px;
+
+  --entry-height: 3em;          
+
+  --card-ident: 2em;            
+  --card-height: 1.5em;
+  --card-width: 15em;           
+  --card-padding-top: 0.25em;
+  --card-padding-side: 0.5em;
+
+  --hconnector-top: 1em;
+
+
+
+  --card-margin-top: 1.5em; 
+  --connector-vident: 1.5em;
+  --tree-ident: 15em;     
+
+  --background-color-presudo: white;   
+  --box-shadow: 1px 1px 4px #8F949A;
+  --width-presudo: 0px; 
+}
+
+

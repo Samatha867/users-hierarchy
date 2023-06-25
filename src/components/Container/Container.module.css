@@ -1,0 +1,10 @@
+.container {
+  max-width: 120rem;
+  margin: 0 1.6rem;
+  width: auto;
+
+  @media (--large-viewport) {
+    margin: 0 auto;
+    width: 100%;
+  }
+}
